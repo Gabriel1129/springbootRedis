@@ -9,9 +9,7 @@ springboot与redis的集合
 - redis的基本数据结构
 - 介绍redis与springboot的整合
 - sringboot中的redistemplate的使用
-
-之前看了很多博客，大都都只是粗略的介绍，这里想要记录的全面一些，也算是一个学习的过程
-首发于我的个人博客:[janti的个人博客](http://www.janti.cn/)
+首发于大佬的个人博客:[janti的个人博客](http://www.janti.cn/)
 
 ## 关于spring-redis
 
