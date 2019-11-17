@@ -56,6 +56,7 @@ public class RedisConfigTest {
         String key = RedisKeyUtil.getKey(UserVo.Table,"name",userVo.getName());
         UserVo vo = (UserVo) operations.get(key);
         System.out.println(vo);
+
     }
 
     @Test
